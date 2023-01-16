@@ -1,2 +1,3 @@
-## Machine Learning Repository
-Machine Learning Assignment and Projects of sohyundoh
+## AI light Project
+
+contains school assignment & projects and specified camp projects
